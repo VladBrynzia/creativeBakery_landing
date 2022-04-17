@@ -1,4 +1,4 @@
-<h1>MIAMI LANDING PAGE</h1>
+<h1>CREATIVE BAKERY LANDING PAGE</h1>
 <ul>
   <li><a href="https://vladbrynzia.github.io/creativeBakery_landing/" taget="_blank">DEMO LINK</a></li>
   <li><a href="https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-(FE)?node-id=11342%3A1561" taget="_blank">FIGMA MOCKUP</a></li>
